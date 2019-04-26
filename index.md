@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages
 
-This is the page made during the class
+This is the page made during the class.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
